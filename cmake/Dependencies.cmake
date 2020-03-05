@@ -189,7 +189,7 @@ if (NOT GIT_DESCRIBE)
   )
 
   if(NOT GIT_DESCRIBE)
-    set(GIT_DESCRIBE "Nightly")
+    set(GIT_DESCRIBE "ToxChat")
   endif()
 endif()
 

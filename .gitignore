@@ -55,3 +55,4 @@ target/
 
 # Tarballs
 *.tar.*
+/res/nodes.json
