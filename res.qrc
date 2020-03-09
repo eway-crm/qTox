@@ -90,6 +90,7 @@
         <file>themes/dark/statusButton/statusButton.css</file>
         <file>themes/dark/statusButton/menu_indicator.svg</file>
         <file>themes/dark/window/general.css</file>
+        <file>themes/dark/window/logo_white.svg</file>
         <file>themes/dark/window/profile.css</file>
         <file>themes/dark/window/statusPanel.css</file>
         <file>themes/dark/window/window.css</file>
@@ -153,6 +154,7 @@
         <file>themes/default/statusButton/statusButton.css</file>
         <file>themes/default/statusButton/menu_indicator.svg</file>
         <file>themes/default/window/general.css</file>
+        <file>themes/default/window/logo_white.svg</file>
         <file>themes/default/window/profile.css</file>
         <file>themes/default/window/statusPanel.css</file>
         <file>themes/default/window/window.css</file>

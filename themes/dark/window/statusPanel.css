@@ -72,19 +72,20 @@ QListView
 
 #statusPanel > #statusHead
 {
-  background-color: @themeDark;
+  background: @themeDark url("@getImagePath(window/logo_white.svg)");
+  background-position: right center;
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 
 #statusPanel > #statusHead > #nameLabel
 {
-  background-color: @themeDark;
   font: @extraBig;
   color: @nameActive;
 }
 
 #statusPanel > #statusHead > #statusLabel
 {
-  background-color: @themeDark;
   font: @medium;
   color: @groundExtra;
 }
