@@ -674,6 +674,19 @@
               </layout>
              </item>
              <item>
+              <widget class="QLabel" name="logo">
+               <property name="text">
+                <string/>
+               </property>
+               <property name="pixmap">
+                <pixmap resource="../res.qrc">:/img/logo_white.svg</pixmap>
+               </property>
+               <property name="margin">
+                <number>0</number>
+               </property>
+              </widget>
+             </item>
+             <item>
               <spacer name="horizontalSpacer_3">
                <property name="orientation">
                 <enum>Qt::Horizontal</enum>

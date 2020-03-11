@@ -180,5 +180,6 @@
         <file>img/caps_lock.svg</file>
         <file>themes/default/contentDialog/contentDialog.css</file>
         <file>themes/default/tooliconsZone/tooliconsZone.css</file>
+        <file>img/logo_white.svg</file>
     </qresource>
 </RCC>
