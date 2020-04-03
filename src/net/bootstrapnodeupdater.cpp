@@ -29,7 +29,7 @@
 #include <QRegularExpression>
 
 namespace {
-const QUrl NodeListAddress{"https://raw.githubusercontent.com/eway-crm/qTox/master/res/empty.nodes.json"};
+const QUrl NodeListAddress{"https://raw.githubusercontent.com/eway-crm/qTox/master/res/nodes.json"};
 const QLatin1String jsonNodeArrayName{"nodes"};
 const QLatin1String emptyAddress{"-"};
 const QRegularExpression ToxPkRegEx(QString("(^|\\s)[A-Fa-f0-9]{%1}($|\\s)").arg(64));
